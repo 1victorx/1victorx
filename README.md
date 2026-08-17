@@ -1,16 +1,18 @@
-## Hi there 👋
+## Quem sou eu?
 
-<!--
-**1victorx/1victorx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Seja Bem-vindo (a) Me chamo Victor Eduardo, tenho 22 anos e atualmente estou cursando Engenharia de Software na faculdade UNIPÊ | Centro Universitário de João Pessoa.
 
-Here are some ideas to get you started:
+## Minhas habilidades
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente focado em desenvolvimento back-end utilizando Java, Springboot e mySQL. 
+
+## Interesses e Projetos
+
+Tenho interesse em me especializar em desenvolvimento web | infraestrutura | SQL | arquitetura de software | API's | Docker | Cloud | C# | C++. 
+
+Possuo um projeto que construi que serve como uma capsula do tempo pessoal, onde registei as minhas memórias e integrei junto do banco de dados para ficar salvo sempre que outra pessoa for acessar. 
+
+Pretendo futuramente me dedicar em projetos mais profissionais e complexos para aprimorar minhas habilidades e conhecimentos.
+
+## Github Stats
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=1victorx&theme=dark)](https://github.com/stats-organization/github-stats-extended)

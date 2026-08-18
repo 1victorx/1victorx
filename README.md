@@ -10,7 +10,7 @@ Atualmente focado em desenvolvimento back-end utilizando Java, Springboot e mySQ
 
 Tenho interesse em me especializar em desenvolvimento web | infraestrutura | SQL | arquitetura de software | API's | Docker | Cloud | C# | C++. 
 
-Possuo um projeto que construi que serve como uma capsula do tempo pessoal, onde registei as minhas memórias e integrei junto do banco de dados para ficar salvo sempre que outra pessoa for acessar. 
+tenho um projeto que construi que serve como uma capsula do tempo com minha namorada, onde registei as minhas memórias e integrei junto do banco de dados para ficar salvo sempre que outra pessoa for acessar e conseguir verificar nossa história. 
 
 Pretendo futuramente me dedicar em projetos mais profissionais e complexos para aprimorar minhas habilidades e conhecimentos.
 
